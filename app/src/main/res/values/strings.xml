@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FarzanFood</string>
+    <string name="listProduct_ImageDescrip">background_image</string>
+    <string name="listProduct_TextName">Nombre Platillo</string>
+    <string name="listProduct_TextTime">TIME APROX</string>
+    <string name="lisView_TextCategory">Category</string>
+    <string name="listProduct_TextPrice">XX</string>
+    <string name="listProduct_TextDollar">$</string>
+</resources>
